@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:0, group-title="news", aljazeera|qa
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0, group-title="news", DW|de
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0, group-title="news", F24|fr
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:0, group-title="news", cgtn-doc|cn
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:0, group-title="uk", >>uk
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk.m3u
+#EXTINF:0, group-title="hk", >>hk
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+#EXTINF:0, group-title="sg", >>sg
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sg.m3u
+#EXTINF:0, group-title="tw", >>tw
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+#EXTINF:0, group-title="cn", >>cn
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+#EXTINF:0, group-title="ca", >>ca
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca.m3u
+#EXTINF:0, group-title="us", >>us
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
+#EXTINF:0, group-title="cctv", CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:0, group-title="", >>plus
+https://raw.githubusercontent.com/lgjlgj/iptv/test/try/plus.m3u
+#EXTINF:0, group-title="cctv", CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:0, group-title="au", >>au
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
+#EXTINF:0, group-title="cctv", CCTV-3
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:0, group-title="cctv", CCTV-4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:0, group-title="jp", >>jp
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u
+#EXTINF:0, group-title="cctv", CCTV-5
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+#EXTINF:0, group-title="cctv", CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:0, group-title="cctv", CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:0, group-title="cctv", CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:0, group-title="cctv", CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:0, group-title="cctv", CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:0, group-title="cctv", CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:0, group-title="nz", >>nz
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz.m3u
+#EXTINF:0, group-title="cctv", CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:0, group-title="cctv", CCTV-13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:0, group-title="cctv", CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:0, group-title="cctv", CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-country="AU" tvg-url="" group-title="News",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-country="PT" tvg-url="" group-title="GroupA",Demo Channel 1
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-country="PT" tvg-url="" group-title="GroupA",Demo Stream A
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="GroupB",Demo Stream B
+https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-name="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="GroupA",Demo Stream C
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="GroupC",Demo Stream D
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="GroupD",Demo Stream E
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SKfoci2.png" tvg-country="US" tvg-url="" group-title="GroupA,GroupB",Demo Stream F
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" tvg-country="US" tvg-url="" group-title="GroupA,GroupB",Demo Stream G
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="http://i.mjh.nz/nz/images/tv.18.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="GroupA,GroupC",Demo Stream H
+https://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://i.imgur.com/VKc7BLC.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="GroupA,GroupC",Demo Stream I
+https://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="GroupA,GroupC",Demo Stream J
+https://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupC",Demo Stream K
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream L
+http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream M
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream N
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/640px-TV_Senado.svg.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream O
+http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream P
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream Q
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream R
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream S
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream T
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream U
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream V
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupC,GroupD",Demo Stream W
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupC,GroupD",Demo Stream X
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupC,GroupD",Demo Stream Y
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8

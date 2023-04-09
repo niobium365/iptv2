@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="uk",bbc-news|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/bbc_news24.m3u8
+#EXTINF:-1 group-title="uk",bbc-1|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/bbc_one_hd.m3u8
+#EXTINF:-1 group-title="uk",bbc-2|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/bbc_two_england.m3u8
+#EXTINF:-1 group-title="uk",bbc-4|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/bbc_four.m3u8
+#EXTINF:-1 group-title="uk",cbeebies|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/cbeebies.m3u8
+#EXTINF:-1 group-title="uk",cbbc|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/cbbc.m3u8
+#EXTINF:-1 group-title="uk",bbc-parliament|uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_tv/llnw/bbc_parliament.m3u8
+
+#EXTINF:-1 group-title="nz",tvnz1|nz
+https://d2vbukhvwwnst7.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="nz",tvnz2|nz
+https://ditqhbg3dqptg.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="nz",Three|nz
+https://livestreamdirect-three.mediaworks.nz/three.m3u8
+#EXTINF:-1 group-title="nz",Bravo|nz
+https://livestreamdirect-bravo.mediaworks.nz/bravo.m3u8
+#EXTINF:-1 group-title="nz",ThreeLife|nz
+https://livestreamdirect-threelife.mediaworks.nz/threelife.m3u8
+#EXTINF:-1 group-title="nz",Edge TV|nz
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+#EXTINF:-1 group-title="au",Fox Sports|au
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+#EXTINF:-1 group-title="au",7|au
+http://live-sevennetwork.akamaized.net/hls/live/573745-b/SYD1/master.m3u8
+#EXTINF:-1 group-title="au",7-TWO|au
+http://live-sevennetwork.akamaized.net/hls/live/573746/SYD2/master.m3u8
+#EXTINF:-1 group-title="au",7-mate|au
+http://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master.m3u8
+#EXTINF:-1 group-title="au",7-flix|au
+http://live-sevennetwork.akamaized.net/hls/live/573748-b/SYD6/master.m3u8
+#EXTINF:-1 group-title="au",9|au
+https://9now-live.akamaized.net/hls/live/708951/ch9-syd/master.m3u8
+#EXTINF:-1 group-title="au",9-gem|au
+https://9now-live.akamaized.net/hls/live/704980/gem-syd/master.m3u8
+#EXTINF:-1 group-title="au",9-go|au
+https://9now-live.akamaized.net/hls/live/708938/go-syd/master.m3u8
+#EXTINF:-1 group-title="au",9-life|au
+https://9now-live.akamaized.net/hls/live/708945/life-syd/master.m3u8
+#EXTINF:-1 group-title="au",10|au
+http://yospace-cdn.networkten.com.au/video/sdten/master.m3u8
+#EXTINF:-1 group-title="au",10 Bold|au
+http://yospace-cdn.networkten.com.au/video/oneten/master.m3u8

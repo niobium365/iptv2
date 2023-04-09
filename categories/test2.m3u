@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="The Weather Channel-US" tvg-name="The Weather Channel-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Weather",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation
+https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Weather",中国气象
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-country="PT" tvg-url="" group-title="GroupA",Demo Channel 1
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-country="PT" tvg-url="" group-title="GroupA",Demo Stream A
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="GroupB",Demo Stream B
+https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-name="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="GroupA",Demo Stream C
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="GroupC",Demo Stream D
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="GroupD",Demo Stream E
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SKfoci2.png" tvg-country="US" tvg-url="" group-title="GroupA,GroupB",Demo Stream F
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" tvg-country="US" tvg-url="" group-title="GroupA,GroupB",Demo Stream G
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="http://i.mjh.nz/nz/images/tv.18.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="GroupA,GroupC",Demo Stream H
+https://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://i.imgur.com/VKc7BLC.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="GroupA,GroupC",Demo Stream I
+https://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="GroupA,GroupC",Demo Stream J
+https://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupC",Demo Stream K
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream L
+http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream M
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream N
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/640px-TV_Senado.svg.png" tvg-country="BR" tvg-url="" group-title="GroupA,GroupD",Demo Stream O
+http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream P
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream Q
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream R
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream S
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream T
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream U
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupA,GroupD",Demo Stream V
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupC,GroupD",Demo Stream W
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupC,GroupD",Demo Stream X
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" tvg-country="TW" tvg-url="" group-title="GroupC,GroupD",Demo Stream Y
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png" tvg-country="JP" tvg-url="" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" tvg-country="JP" tvg-url="" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png" tvg-country="US" tvg-url="" group-title="Shop",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png" tvg-country="US" tvg-url="" group-title="Shop",Shop HQ (Backup)
+https://v-pi.mybtv.net/event/4.2/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" tvg-country="US" tvg-url="" group-title="Shop",Shop LC
+https://v-pi.mybtv.net/event/4.4/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/RUQASCU.png" tvg-country="PH" tvg-url="" group-title="Shop",Shop TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-language="English" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="Shop",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" tvg-country="US" tvg-url="" group-title="Shop",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-id="tiop-shop-tv" tvg-name="Top Shop TV" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Shop",Top Shop TV
+https://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1 tvg-id="tv.45" tvg-name="TVSN Shopping" tvg-language="English" tvg-logo="http://i.mjh.nz/nz/images/tv.45.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Shop",TVSN Shopping
+https://i.mjh.nz/nz/tv.45.m3u8
+#EXTINF:-1 tvg-id="tv.45" tvg-name="TVSN Shopping" tvg-language="English" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Shop",TVSN Shopping
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="Shop",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="The Weather Channel-US" tvg-name="The Weather Channel-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Weather",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation
+https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" tvg-country="JP" tvg-url="" group-title="Weather",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Weather",WeatherNation TV
+https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Weather",中国气象
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
